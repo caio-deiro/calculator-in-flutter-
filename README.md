@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Calculadora](https://user-images.githubusercontent.com/76565329/123490622-d8b90600-d5ea-11eb-94f9-a446d9bf6c61.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
